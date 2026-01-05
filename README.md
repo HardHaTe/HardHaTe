@@ -1,9 +1,5 @@
-<p align="center">
-  <a href="https://t.me/swezy" target="_blank"><img src="https://img.shields.io/badge/Telegram-@Swezy-blue?style=for-the-badge&logo=telegram" /></a>
-  <a href="https://discord.com/users/1405599489531576411"><img src="https://img.shields.io/badge/Discord-Swezy%20%3C3-blue?style=for-the-badge&logo=discord" /></a>
-  <br />
-  <a href="https://nohello.net" target="_blank" style="font-size:12px; color:gray;">Don't just say hello — https://nohello.net</a>
-</p>
+<p align='center'><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" ></p></a>
+
 <h2 align="center">Hi, I'm HardHaTe.👋</h2>
 <h4 align="center">Experienced Backend .Node/Python developer passionate about creating innovative and effective solutions for digital transformation.</h4>
 <br />
