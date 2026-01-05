@@ -1,5 +1,6 @@
-<p align='center'><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" ></p></a>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=007edd&section=footer" />
+</p>
 <h2 align="center">Hi, I'm HardHaTe.👋</h2>
 <h4 align="center">Experienced Backend .Node/Python developer passionate about creating innovative and effective solutions for digital transformation.</h4>
 <br />
